@@ -2,3 +2,4 @@ A simple End-to-End Salary Predictor Project which is deployed in Heroku environ
 
 URL: https://salarypreds-api.herokuapp.com/
 
+![Salary Predictor](firstmodel.png)
